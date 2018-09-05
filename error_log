@@ -1,0 +1,186 @@
+[04-Sep-2018 08:08:44 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:08:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:08:51 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:08:59 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:07 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:09 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:09 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:36 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('259063')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:37 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('168790')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:41 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('168790')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:41 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('168790')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:43 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('168790')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:15:41 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:15:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('907037')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:15:45 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:15:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('907037')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:17:09 America/New_York] PHP Notice:  Undefined variable: user_read in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 08:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function runQuery() on null in /home/mywezvus/test.mywebdeal.in/class.user.php:127
+Stack trace:
+#0 /home/mywezvus/test.mywebdeal.in/verifyotp.php(17): USER->otpverify('124899')
+#1 {main}
+  thrown in /home/mywezvus/test.mywebdeal.in/class.user.php on line 127
+[04-Sep-2018 09:40:54 America/New_York] PHP Notice:  Undefined variable: mob in /home/mywezvus/test.mywebdeal.in/verifyotp.php on line 19
+[04-Sep-2018 09:44:31 America/New_York] PHP Notice:  Undefined variable: mob in /home/mywezvus/test.mywebdeal.in/verifyotp.php on line 19
+[04-Sep-2018 10:41:12 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 46
+[04-Sep-2018 10:42:35 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 46
+[04-Sep-2018 11:05:17 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 46
+[04-Sep-2018 11:10:55 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 47
+[04-Sep-2018 11:11:58 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 47
+[04-Sep-2018 11:49:01 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:49:01 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:49:30 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:49:30 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:49:47 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:49:47 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:50:09 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:50:09 America/New_York] PHP Warning:  Illegal string offset 'userID' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:49 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:49 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:52 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:52 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:52 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:52 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:52:56 America/New_York] PHP Warning:  Use of undefined constant index - assumed 'index' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/logout.php on line 16
+[04-Sep-2018 11:52:56 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/logout.php on line 16
+[04-Sep-2018 11:53:51 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:53:51 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:54:34 America/New_York] PHP Warning:  Use of undefined constant index - assumed 'index' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/logout.php on line 16
+[04-Sep-2018 11:54:34 America/New_York] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/logout.php on line 16
+[04-Sep-2018 11:57:17 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:57:17 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:58:37 America/New_York] PHP Warning:  curl_close(): supplied resource is not a valid cURL handle resource in /home/mywezvus/test.mywebdeal.in/requestLoginOTP.php on line 47
+[04-Sep-2018 11:58:52 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 11:58:52 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:17 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:17 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:26 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:26 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:36 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:00:36 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:45 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:45 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:45 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:45 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:49 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:49 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:52 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:01:52 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:02:11 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
+[04-Sep-2018 12:02:11 America/New_York] PHP Warning:  Illegal string offset 'userName' in /home/mywezvus/test.mywebdeal.in/master/header.php on line 9
