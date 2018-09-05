@@ -43,8 +43,10 @@ $message = "Your OTP is : $upass";
 if(!empty($number)&&!empty($message))
 {
 $message = urlencode($message);
+$apikey= ******;
+$senderid= ******;
 $ch=curl_init();
-curl_setopt($ch,CURLOPT_URL,"https://smsapi.24x7sms.com/api_2.0/SendSMS.aspx?APIKEY=TyDqvfH3JI4&MobileNo=$number&SenderID=WEBLOG&Message=$message&ServiceName=PROMOTIONAL_HIGH");
+curl_setopt($ch,CURLOPT_URL,"https://smsapi.24x7sms.com/api_2.0/SendSMS.aspx?APIKEY=$apikey&MobileNo=$number&SenderID=$senderid&Message=$message&ServiceName=PROMOTIONAL_HIGH");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
 $output =curl_exec($ch);
 curl_close($ch);
